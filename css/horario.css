@@ -1,0 +1,26 @@
+table {
+    border: solid 1px black;
+}
+
+table thead th {
+
+    background-color: black;
+    color: white;
+
+}
+
+table tbody tr:nth-child(even) td {
+    background-color: #B0C4DE;
+
+
+}
+
+table tbody tr:hover td {
+    background-color: #00BFFF;
+    cursor: pointer;
+
+}
+
+h1 {
+    text-align: center;
+}
